@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LiamatAmroc23
+- 👋 Hi, I’m @Stars
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning PCB Design
 - 💞️ I’m looking to collaborate on Amateur Rocketry
