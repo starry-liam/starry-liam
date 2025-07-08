@@ -26,12 +26,16 @@ I'm student hacker from Tampa, Florida. I mainly code in CPP, Python, and Java S
 
 <table>
   <tr>
-    <td rowspan="3" style="vertical-align: top;">
+    <td style="vertical-align: top;">
       <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=757&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dracula" alt="Hackatime Stats" /><br /><br />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=starry-liam&theme=dracula&hide_border=false" alt="GitHub Streak Stats" /><br /><br />
-      <img src="https://github-readme-stats.vercel.app/api?username=starry-liam&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=starry-liam&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
     </td>
     <td style="vertical-align: top;">
+      <img src="https://github-readme-stats.vercel.app/api?username=starry-liam&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center; padding-top: 10px;">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=starry-liam&bg_color=282a36&color=9fa9ca&line=ff6e96&point=8ab39a&area=true&hide_border=true" alt="GitHub Activity Graph" />
     </td>
   </tr>
