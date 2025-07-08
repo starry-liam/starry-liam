@@ -31,12 +31,16 @@ I'm student hacker from Tampa, Florida. I mainly code in CPP, Python, and Java S
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=starry-liam&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
     </td>
     <td style="vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api?username=starry-liam&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w7ld5xiuh2gc2ond7gtg64aiqu&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="Spotify GitHub Profile" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="text-align: center; padding-top: 10px;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=starry-liam&bg_color=282a36&color=9fa9ca&line=ff6e96&point=8ab39a&area=true&hide_border=true" alt="GitHub Activity Graph" />
+    <td colspan="2" style="text-align: center; padding-top: 15px;">
+      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=starry-liam&bg_color=282a36&color=9fa9ca&line=ff6e96&point=8ab39a&area=true&hide_border=true" alt="GitHub Activity Graph" />
+      </a>
     </td>
   </tr>
 </table>
